@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rawen05
 - 👀 I’m interested in Front-Development
-- 🌱 I’m currently learning HTML5-CSS3
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on A Website
 - 📫 How to reach me LinkedIN:https://www.linkedin.com/in/rawen-omar-255b57209/
 
