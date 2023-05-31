@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on A Website
-- 📫 How to reach me LinkedIN:https://www.linkedin.com/in/rawen-omar-255b57209/
+- 📫 How to reach me LinkedIn : https://www.linkedin.com/in/rawen-omar-255b57209/
 
 <!---
 Rawen05/Rawen05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
